@@ -1,0 +1,15 @@
+# __pycache__ 폴더 무시 (다른 폴더 내부도 포함)
+**/__pycache__/
+
+# 폴더 무시
+myenv/
+
+# .bat 파일 무시
+*.bat
+
+# .png 파일 무시
+*.png
+
+*.log
+
+.env

@@ -1,0 +1,11 @@
+discord
+mcstatus
+requests==2.28.2
+pytz==2023.3
+matplotlib==3.7.1
+numpy==1.21.6
+beautifulsoup4==4.10.0
+lxml==4.6.3
+gtts==2.5.4
+pynacl==1.5.0
+python-dotenv==1.1.0
