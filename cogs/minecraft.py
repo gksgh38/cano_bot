@@ -25,8 +25,8 @@ class MineCraft(commands.Cog):
         if len(arg) == 1:
             if '접속자' in arg[0]:
                 await ctx.send(MineCraft.get_mc_list_str())
-            elif '주소' in arg[0]:
-                await ctx.send(f'서버주소 : {SERVER_IP}')
+            # elif '주소' in arg[0]:
+            #     await ctx.send(f'서버주소 : {SERVER_IP}')
         # elif len(arg) > 1:
         #     await ctx.send(f"입력된 인자들: {', '.join(arg)}")
         else:

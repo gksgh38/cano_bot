@@ -24,6 +24,7 @@ async def on_ready():
     await bot.load_extension('cogs.LostArk_Market')  # cogs/LostArk_Market.py
     await bot.load_extension('cogs.LostArk_Character')  # cogs/LostArk_Character.py
     await bot.load_extension('cogs.TTS')  # cogs/TTS.py
+    await bot.load_extension('cogs.DF_drop')  # cogs/DF_drop.py
 
 @bot.event
 async def on_error(event, *args, **kwargs):

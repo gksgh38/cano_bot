@@ -1,0 +1,2342 @@
+{
+  "d51d0071c181d4fe99b04e19f2fd6a82": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "3fa641178ec5583bb493fa6c3c53138d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "7893424d65044032b098b8ac7e07f673": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "367b3b08ef17bbbe161d7e431c4abba6": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "1317ae1cbfce072ddfa2a6ae9cf8b239": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "508bbec61115ad4ef437fb2a28a2cc2b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "낫",
+    "dungeonName": ""
+  },
+  "7fb2ef7c4236088c85d3951404b9c36f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "3c98b0a19cfc20b86099795425547710": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "a213bec9070fd483d1d58dff6931b421": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "bc0b48fc1aee8c0e52aaf26c74a333b4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "72baf130d32d7c03872f338e86a1c13f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "1817f0bc89bbcde471f1fbb5e50b6529": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "3dd0c7bfef142dab5a70e9b079cae599": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "9b8d8da0372d00ec724b6117c4319443": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "7d3e5bd6566945826198852fd5d69cdb": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "리볼버",
+    "dungeonName": ""
+  },
+  "a09aa37fb3067a731e1f22b601b7fbc7": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "dd267f29006748266a62a816b5b05d48": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "5a4809553cd2957bc784cae0cfb5799d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "8620ea36303db8fe485762e3e1b56883": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "b7062a0ba2ddd8dc5d8d481ae764c944": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "63e37fd3a705e8ef55381ce6e8674105": {
+    "itemAvailableLevel": 1,
+    "itemTypeDetail": "부스터",
+    "dungeonName": ""
+  },
+  "3b0a259d06f696b63f1ce3eaca4abc52": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "cfb10e82f068a4afa752d8e15fb1349c": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "d82f1b5562bfca6f5003640175742d0f": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "dc62f7c8c83de81a91b6fe07e64a0a84": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "936f1d74d912d6464d898a7075d191b3": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "557fe67fcc891472f4081a55dfec075a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "307c6eb474b76601c31aaeebcacadc56": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "fa53754fc0f378503e801e066d331e6e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "f739c5bd95401ac9a3d65f75d3172aad": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "25505bf474ebfe0744902240abc4c32b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "d6a93263792249e5301cee1c0f543c71": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "4cc867a64fa257231f0fa2339ebc7e48": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "57ad748a9e4802e0e90f6390995cd420": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "dbed33f13419af153131bbe5e2739a23": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "f3c8cf7b1f6a7136a89f6d0fb351429e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "f16a2dca4b8c28755682b390fe7d20d7": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "86b82b8b264595db44c437370f796e9a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "f874fd2b83504fb4871add8cbf4e6e08": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "3ae1dd27d6fdc59d072c5896dd0526cf": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "c021686f1c75aaa52d9a868d6e4eacc8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "60b2ad240af5bb11947eb7c051726f42": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "6069dda08b7d65473814030a579b102f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "a0f8e13ef611c4b0f7ebdbd99576b56d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "63b473b08a9d5c25c3ed0c8bcb1da2d7": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "854d52a64fe061dc2586a10bf274676b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "29de998d42303d1333e8309af0344aef": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "c3de6433c7b11e525402037cbc3c72a2": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "a9acce85695d50efafc084dfc93e14c3": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "b2a35f97ca9d078db32c42eb0bb7d572": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "낫",
+    "dungeonName": ""
+  },
+  "14013c4fd0739765f0296c7cbd176c51": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "cec8dadc0b87a2faa188ba4dacfbb32b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "b18e7187087ec03a300e22d171e83ce4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "6c1950a1769f2dc1f38d94166aa6db4a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "4ed2acf74d5cfa69947535f6a8af7c5d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "94884ed108c1b7edf1082298bb5dd9ac": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "fe2a72547aae37e51e77be963e65123e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "660527937b8a1089c9192e6aeb07d9ac": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "b81801de770b9331b308dc312ee78b28": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "2313e7cb7cad9e15e23f4c1ccfb2b4bc": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "b2898f6d37bd1414074d89732d35e387": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "9d8753d398024eb58c0e4bd845cf5b10": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "d814c3a2e2afd76b31939f138989249c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "91b6146daf176282f0209a6d18967fdb": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "너클",
+    "dungeonName": ""
+  },
+  "48ec8f172a79b69fbe36bee44a471727": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "6bc34e0a3c3a464a8dbb548042675af0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "a0762aa15f4ef310be1b26a5bd36bb28": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "5e67bc4c40fe7996e57ac6b0e5bf85ab": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "십자가",
+    "dungeonName": ""
+  },
+  "69e6ac45f1d76be33e26fd9b53313781": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "123f10b4ddf5ff467f936beeb2a90dcf": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "dc3885a9411b36832169cacff46b584c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "ceb001606e1cefd8b78a106a1a2d9201": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "8206c2d4d9a9460d8c55ebb9c20dd6d3": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "072f20834d1da7715e9d4a4758be9122": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "90949bfa792ca2b0b5df790096bdf4aa": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "10da44e3853c5dac8549572bd2b2644e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "484db18e477d21976e462e1ba7841284": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "18dbcf77e3394baf5109be4137cd5b69": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "eaadae1ee58e750eb6a25702c8e7f7e0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "184d9dfed90f970fe7ca3cb967e2a722": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "9156e55db26ca2e64acd2c8ca74ae878": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "b9a53ed5a3cefd55052e245e80c8a8c4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "e2c810db83f97eda76823b3e4f96c631": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "a4040f1af18b4cfb7bd3c435e2ecaa28": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "17e1cababa951470969dbba4e9bb8547": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "88c015be8ad68d67fb35cfa693dbe639": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "d2eab2379f837186577472d3e49e1130": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "fa34b99590789e6dd56f6e15bc716e6a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "미늘창",
+    "dungeonName": ""
+  },
+  "0add2efd7665260ad6e57e546b5fade6": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "379a5272caeaace0ab9b7cbf7383d485": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "1e4fe5dc2901afa95bf4a6a944843960": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "스탭",
+    "dungeonName": ""
+  },
+  "01ca6b499ec778f66e03d6b2dc561506": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "소태도",
+    "dungeonName": ""
+  },
+  "b6499c7fc87083543a9f1553b1e93a55": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "6e650fff81f46f2457054629f87d51f9": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "5de13e3bb024510cc700975be9928b65": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "64ab0451e9b8e4e5b37450da182b4e25": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "127f30148084de5339713769683e2d67": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "f2111bcc7ad8b1a005fb78e515ad785b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "880f071286012608377d70fab1e45668": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "9a1853f199a426e7bbe09b967f27182d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "ffcad6ffb4e4629f61b56052f158f805": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "13453828fa83065a8bfb018067ced1f2": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "95008cca6f972b35df2347a827d1c64c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "8b511fc80547bb9a0162a50ca8ba868a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "염주",
+    "dungeonName": ""
+  },
+  "2719b52c25246cedc2c06d5489e2c3c1": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "84d5b02fb7ae89f051a82e8d0b390f48": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "a04b678fa0db5f95f5c274a4a513e50a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "975d2fb3c5dd7e6c2f2fbdae37bdaed5": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "5cdc0cfd58d8c3e45b8cfccf94217348": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "da4a559ff3f46300ce9a40282160ac07": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "1bc577c1646bdf6b907182a6b51d2ca6": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "1585efdc5a6a16de5fa29d55e956665b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "e1ab2b23b7dff8cf865a71751d4ca229": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "0562bc112b009b2fa1554ba3c9ecdcb7": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "9b08692df137d2ce78df56bd6c8d0978": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "창",
+    "dungeonName": ""
+  },
+  "09bcc44c3130b87a7ad45a297992a0d0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "1064578619f203193e5cb55ca9909824": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "591564f079e8c8c79d7de6d6f925fec5": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "6dec30d4dbf75153cfad5af20cda006d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "30457efb8b2d19c2ca0b3b071b557af1": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "ec0998fd61d11d03b8afeb804f2e750a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "bf3e16c65ae4642d4c0c5659a0ca5253": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "21753478bab6cd9d3f5265ae36abc34d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "be8d8c1ffe33be8090c9c0d105d45aa3": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "1ec42a6c4087627c396daa257475ed5c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "a072b7e6b059574e8b6a8a7dadd8d72f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "9b9bae5b288cfb421591f2b69d003063": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "ae3100c9f624adc1d1fde8afb8570b6b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "장궁",
+    "dungeonName": ""
+  },
+  "241a456d8d78e4de68cdd4a8a40ccfd0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "dd26ecd06ed6b1b7b6f28086beb51f46": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "35cfcfdef4a58f38cc291db0b005db57": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "5c6d51da9fb172943219d333a06c9868": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "d02a39cfb1501bcc8453229b7f85a43e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "bbfb2e609b63d726e3249cd9379f6118": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "fa186dfbbdef647418f4581cedec7ea8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "ee160e4221f89f704bf3b361bc7e536a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "962ffa39e94bff54fa343f3abbd578ef": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "b1307410051171619ec11fac715d16cb": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "4e13a0e608282e52bfd188532a7bf8b4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "ef642579883c03010e0d38aa1794997b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "607c2ea23e6c1e7d82e3cb0ec17b45c3": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "3977f9a43d714ed7dc823f286a8bef8b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "3392ff79954b6fec9da92df270c69512": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "5fb0df7775cfa4c2d13b57368526269f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "45de752180af8164ea3c715cb5aabd31": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "단검",
+    "dungeonName": ""
+  },
+  "0eb5d7cad40b1aeaad80c8997cc7fc99": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "78e8f42c625ec7ef7292351850107b03": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "3c7cf558f643169adce3bce92aa17cc5": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "855c91737d8f8559e6c5695b477711bc": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "a15a4791d418d52c0ab80fc20078d6cf": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "069d3a12378df401969fd3b87273c543": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "권투글러브",
+    "dungeonName": ""
+  },
+  "2e709a666847398dff5c364688866a86": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "광검",
+    "dungeonName": ""
+  },
+  "aab89cb8be84744e7d065ca0642f52e5": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "토템",
+    "dungeonName": ""
+  },
+  "c8ac17e59f841dee73ac5c2b43e09900": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "3783cfe464239a5812cd6d0581068d11": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "염주",
+    "dungeonName": ""
+  },
+  "311f3720a38dc22182863a1e975feb18": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "857a30a79d5fa26119a1d1e247444974": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "0f7270c72c010c5c9d8020b07f271526": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "너클",
+    "dungeonName": ""
+  },
+  "e39133d663af30885f3ea6a62928e806": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "22011b655c9771866ae25a9687ad64be": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "60a6f0146dddd1fcbd7d20aae40357c4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "3450d77e3bf63f9611d593d07a1a5645": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "166df2b402ca0a93ce9d2dbd7ff76918": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "8b0fe7b024e6bb048d3db00a0e88af21": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "cb015bdb6ca83dae7ccd7604ca558064": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "a1b024bc3c80c0028e8408a5e008f915": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "b1563be1210d91ab07f5eda14ca42965": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "425fa6a763366225ad9bc774e9e0f577": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "039cb38681a055f663646023ad8804f0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "광검",
+    "dungeonName": ""
+  },
+  "e49db849c86b9817936e28c9523a1813": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "0df1839062b9b71a77a312ea9d020004": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "010a6190fa3042ad98705cbbe3b2c106": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "810b6286f4f6cf8c4489641a5ed77d9e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "1781b439158ddadba6057feedf66bedb": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "72b35dffdf7d756a36b5880da0f0904b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "빗자루",
+    "dungeonName": ""
+  },
+  "413f82801f1c0dabadbc9650eeb08d77": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "5b8a493b5960c3a91bc6902d620416db": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "차크라 웨펀",
+    "dungeonName": ""
+  },
+  "1010061a15b07746cd5ca65c665335a6": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "9eed4ab46413679eea0e512b76b824e8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "십자가",
+    "dungeonName": ""
+  },
+  "3501089b77395bbeeb11c4d96d51df70": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "6c36d06d09dc447ba97c495554741da4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "9525a9d89ef95554daecef8108868fd8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "3d9f8f34d903bada8e5030666d85bd47": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "a6a03a95ccfdfbbb9108b58a9a5bd535": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "2be538b914d1b161d99bd54ef37a2308": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "80b0d499e1b84f1c8ea3e37a7116904a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "d747b8472238c2d33e257cdd93e4b029": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "f78ee2de6906df976b81a855405f1bea": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "c1a6496d2b9817e6cd88f6c1dbdcb115": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "3d4f3142079f551e9511a56bf3c04ccc": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "0f1556d74a133bf1f32cc414e8c44001": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "4bb4e84551335ec0b22368859b502d96": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "염주",
+    "dungeonName": ""
+  },
+  "07fe8b0e336f5186b11a014d6a69f189": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "5517ee879635f9cc58b3439b8e6ced62": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "7f64ec29540edbaf17fcc6c75f30ea09": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "낫",
+    "dungeonName": ""
+  },
+  "f090aa6940ba797492ef96d6c8f7796e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "da43042a29d4dd9f84ed2c351fa92b0b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "7c3070b07ef4d13a4c2775c4c196dd83": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "4995c44e88946e12811458899134f804": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "광검",
+    "dungeonName": ""
+  },
+  "9950cfa396b720f9ba961c58b0a69c78": {
+    "itemAvailableLevel": 1,
+    "itemTypeDetail": "부스터",
+    "dungeonName": ""
+  },
+  "841ea92775de710061d9ea2045217e21": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "bb4c4b854f05a135f39bf3a982f87b19": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "3183d3b9040e906ab2e546913b1fcfa1": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "6a20433cb0401d19ee8b9c32bc2744a1": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "dcc0739231586874b81a2377b3c91e33": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "9623d7f5197b40a96dffd78c65d57287": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "3d706ea636ce2134fb33d124599ce92f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "b10c3f4fd74d0886b9f15c1162ae7462": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "d3202f05592d04bb3b1ff144ef6c273d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "d622369b20ff9047011d8223ec1ecf5e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "미늘창",
+    "dungeonName": ""
+  },
+  "fdd4c6628ceddd48d26bc96f7079a6e9": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보우건",
+    "dungeonName": ""
+  },
+  "da4e58505a7e73cbc0f3128909263a28": {
+    "itemAvailableLevel": 1,
+    "itemTypeDetail": "보주",
+    "dungeonName": ""
+  },
+  "5266233710b3d745b22fefab4bb87a71": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "스탭",
+    "dungeonName": ""
+  },
+  "eb42d507e874d34f730daf9a37f87141": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "220ae5e4e8c3a07d5ca4e5c027a77294": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "35afb5504849b7b3520679e905e1b1f5": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "창",
+    "dungeonName": ""
+  },
+  "ba97c9bcf07aeeb902878bcb52425152": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "57538c2b9b397b70232979076714f28e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "도",
+    "dungeonName": ""
+  },
+  "c28adff4d999079e03626b5b04f0a7cc": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "0346b10d179e5c4ce056fa4c42670f99": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "f4ebda346ccd4281a9c37de9cb8936a5": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "대검",
+    "dungeonName": ""
+  },
+  "4ae668f4ebd3ac277ed63348d3dcad8f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "51be90f0f68a048084cd6163e722bbd0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "85e1be359e3c3b9e8cb908dc2a04cb31": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "52cfa9766253c171e6d4b9a635776033": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "c3e60ef4410a4d5f7e5fb2426894613b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "로드",
+    "dungeonName": ""
+  },
+  "0801473c91a3bcc11f9ea84571034f69": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "d31334eafce7fff479fb5cd858450b06": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "53569c0a2863a602cf130d6abbe64e0b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "둔기",
+    "dungeonName": ""
+  },
+  "6fb2ab3331418a5afa6200fb88aa5855": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "1c8bf025e6dde1d03a54242c2662d102": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "로드",
+    "dungeonName": ""
+  },
+  "a3dfb2b25d5a20047b68c9d233c7e630": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "32b763107adb97a3f1f2717ad92f1995": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "1d9bfd53d85b89f6392358bfea746dea": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "afe10e6cb0205ac778f595ce64db6f1b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "코어블레이드",
+    "dungeonName": ""
+  },
+  "3d69c171faf727a91bbad784e59c9e0e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "단검",
+    "dungeonName": ""
+  },
+  "132a45d427142eb39845eb85272e062d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "7635dc79d1c93a6bf4d48f6b8e8cdc7f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "장창",
+    "dungeonName": ""
+  },
+  "bad7a9f6ab9534f1200f359155e680aa": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "48b5ccac766242cf4f11485b617aca2d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "a1d23b8d94de2d66d20796e7db6cd4a9": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "24b5d12a2d739638ebff15306991a301": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "83a7067c3eaee34e5f007c8453e74c5c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "bc27052cab83e39c65aa908ae1d5e44e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "506c8f62fe55d04dd0fc0d90c2a15661": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "c9024bc63de93337d3f7541203e2f3ed": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "로드",
+    "dungeonName": ""
+  },
+  "b64bc8758120a428b48ccce4d7af04a5": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "192710d63f0fc1f592ed34888a2f3cac": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "소검",
+    "dungeonName": ""
+  },
+  "91439d051d622370da855fc6bd31c18e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "945c20278807e061e83042e1c1d197df": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "b56f1b34f0cd04e060ed954df3d638d8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "a342f0d2194caaca92ac6d032b1af1e0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "완드",
+    "dungeonName": ""
+  },
+  "f69fc6fc793f98477851056c6b5e5920": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "둔기",
+    "dungeonName": ""
+  },
+  "f46fe4c07fda3827871b6bb8d52a28b4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "로드",
+    "dungeonName": ""
+  },
+  "1cc582daefc24c9deec5325253ffb9b2": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "107e13c44d4b6d9a92e5febe5a0615be": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "94f311da1fcc35c2be2925c46a61f923": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "쌍검",
+    "dungeonName": ""
+  },
+  "063aa2c3726ea7bb560c1a845a58caa9": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "92fcfe1019334f64c4ace41533103dcd": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "중검",
+    "dungeonName": ""
+  },
+  "614582e824e48e16ebca1f7d3c3fe0c3": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "스탭",
+    "dungeonName": ""
+  },
+  "50752f1905af83563e5e2f5b746c8cc4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "3c7ae633ed91578716574cbe9958f391": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "91b97030310791c815100f5749e96c94": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "ec5a4dc83470ca91a8e18b11f749deb6": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "cb4c30e30c77704f526cc8c4e8152458": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "토템",
+    "dungeonName": ""
+  },
+  "e9d532aaa850ae9022c33b1a687049c5": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "6f6202187264130623fb7386af92735f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "f83450f4b2907a2a8bd5f1deb3b54289": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "454e2f2f91562a128ba433307bc59015": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "e5a303030632df78871cfb3a070e1b78": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "자동권총",
+    "dungeonName": ""
+  },
+  "239d2af2297915233c131ed83e382dbb": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "d523df91971f8fd5f2252a93053d3d26": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "낫",
+    "dungeonName": ""
+  },
+  "909155d518545f4005fcb62b3158a047": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "c2c1a2bda6c8c57eb01b9f01135aeda6": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "c3f04d7307e8310fc19bcd4fa9a7c9bf": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "십자가",
+    "dungeonName": ""
+  },
+  "5c87ab8919400f37343fd2e2da930bcd": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "8420a1aa819f2ee3d28e57b3b2c763a6": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "0823b9c11a62ea1ad8535bb3b61bc510": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "bd5491daca84b6e920291bb098a7549d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "a09ea77c0a89bf04809b9a5ece211120": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "f2c551f0893f5ab41fe55c50938f4030": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "c0da1ac87c5b9bf5fe3b0485701239a1": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "580c1e989f67e38f2d48499eb88ecb94": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "2b5322493ff443c55ddeba0d3a50a517": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "자동권총",
+    "dungeonName": ""
+  },
+  "3544ac9e43a34693e4218445b6436762": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "462eb54e8c8ad926f11029e6c2b6826d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "39fba99e1709c8e8df6c0b807ee65e9e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "클로",
+    "dungeonName": ""
+  },
+  "1948b78828c8cf07218ee1a55c1d09a0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "362af4087d37fa14c438ecc930372100": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "345db641b1bb3c2a9e41015db23e7d4f": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "5558a7ce9f0eb06af4cf84a0e4c8ee0f": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "38a99d849177381f2192ab8fd57b6538": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "918428f7d8708735caa0e85a83a7e46c": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "2a65f589a86b825b330abc306e5cc017": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "6e6932cb4995cfb2b26e701912a6f871": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "cb098a39b32c2c4da0ac86f42cf02a4a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "12e79effb3069d8f54799fb26d5bf16d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "스탭",
+    "dungeonName": ""
+  },
+  "fdae64ec5068a2e9d1cd88df7d0c48b7": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보우건",
+    "dungeonName": ""
+  },
+  "38649c2d1efd86613624653fe835c190": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "2b7b57418c2c75fc74d1cdebe44147bb": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "ce90fd8107a2dec651b9f7c41a84888c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "0799b5bd0c9282f0b31db5c2cdf00987": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "통파",
+    "dungeonName": ""
+  },
+  "10d4d8976bc3ebb1527b47c469735d1c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "58b77da5952116a79168333ad129f5cd": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "3f81664a47d9f1a03a4fd9b2137b8eb7": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "24a990153ec9a52c4ceab9dac89d445a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머스켓",
+    "dungeonName": ""
+  },
+  "8c61142a45d62fe0d7026dbcac044810": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "6bab8cc6a330eb195775b22765a9c319": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "00bf74d6ad7caf7a36989a15562b14a0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "fa27b13ba163a2dd54917524882b4f43": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "대검",
+    "dungeonName": ""
+  },
+  "b8a51d7c294187e0062c59dc2a57bed8": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "도",
+    "dungeonName": ""
+  },
+  "293e586e2e169d4e6604628cd4a45a6b": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "078ef4c689fdf4ffcf6ffcc2d09f5dae": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "클로",
+    "dungeonName": ""
+  },
+  "ac51ae355f08cc933a6eaf954303a67a": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "너클",
+    "dungeonName": ""
+  },
+  "96d600df1da1c8bccbc8797871a7665c": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "너클",
+    "dungeonName": ""
+  },
+  "e99f069f95c35aba1c5d311e81b65faf": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "6f3073c9d3164de879af7d1038c91f8d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "6610eb7f84f9ad49ff50bebc1e6d8b98": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "639dedaa8b9218023da86ff44f80662f": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "d8d0591052637b41e0adad43ad8f407b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "8b38fd1925f030abf9154f9ef448d41a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "d61a06e03d9d71e7e796feb0979873fe": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "03bb7e37d3c5d949dc43fa8640e39fd8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "c831c093b447b149eddb151bd1ea478c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "클로",
+    "dungeonName": ""
+  },
+  "235babfe248f3d78fb746303085f1711": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "0633b887c945499e3ca74c68261bbeb2": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "0f98a8d74d0771f359cc890ca877da8c": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "8c7a6525c6a5f61d63f18a7f2aa74720": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "8dffa40f0c682d6e808f2140f0831113": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "d9856ddc373ec13093e3bacab7fbdd6b": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "82be5cab8a1a1d74a2c76387bea74f22": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "d52deb46528d91d333306bac701226ec": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "d8f457479508ba3159430e137d99f52f": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "44e90b09a8bbab556f4958feb6168663": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "ebb4b4448009b2109e04d5aaf9ff85d1": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "건틀릿",
+    "dungeonName": ""
+  },
+  "3c72626a0afb037b8b2b1f226eca6176": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "4dd1689341b804524e064f3be673b7cd": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "01e87a922735c6bf9a54c05ba3c5e88e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "투창",
+    "dungeonName": ""
+  },
+  "8762cac3b2a480212ec7803d611c796f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "클로",
+    "dungeonName": ""
+  },
+  "d51700c5dcabc4d60342e9fce67e82f0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "소태도",
+    "dungeonName": ""
+  },
+  "2444288a5ba59fe11dacd68b811ffc18": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "b270e5f6f6f78a1bd2cb77d6655a8210": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "5acc8f73edb6962e0146ca82df4b9090": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "클로",
+    "dungeonName": ""
+  },
+  "712eef49bfaeef17d21b4d984b6c28b0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "e6581abfc6fcf50c27a2e6678f8c6411": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "둔기",
+    "dungeonName": ""
+  },
+  "46902219ed312eea382fd87dfda1dcac": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "너클",
+    "dungeonName": ""
+  },
+  "56292c3d584c123b342da8171215c438": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "0fb48a898584f41764bbd49b14f88d87": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "bd35b37823d4109d3d62fea1b25fad5c": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "ecb31f0a8239243305710ec93f2c598c": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "be92b91c14836f2d5e0c5f899793a07d": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "3c8e697eee47723378749a502136174f": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "ad465c92c5ef247e407617f47eeb4afa": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "광창",
+    "dungeonName": ""
+  },
+  "c1524653ad86f9cafe6f7bf65615542c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "e15a039ef16cb42914a88ef74f2eef4e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "6250a5bf265d32114371e2c22bb33358": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "소검",
+    "dungeonName": ""
+  },
+  "22939054b71dfd19a8a5231f1c2056ac": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "05dcc777641fa89e55871fa8c6dcf5f8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "1714a46bd51c67510c0cd4f30ae3242f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "92716e38cfda9c78009d410f825cd1fe": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "92f31289b57997fe2c6de2cc56286e38": {
+    "itemAvailableLevel": 1,
+    "itemTypeDetail": "부스터",
+    "dungeonName": ""
+  },
+  "cc63102a841785caf80706f1d7077b07": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "봉",
+    "dungeonName": ""
+  },
+  "4325a5c0577ff72d573ec54aed0671a4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "0282d9787ec3c3f57d840b011b6dc6bf": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "도",
+    "dungeonName": ""
+  },
+  "40dd298d737531be88e9f8f583ebbc40": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "건틀릿",
+    "dungeonName": ""
+  },
+  "b503ebf81a6011bfa6ede1467cd84bf0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "도",
+    "dungeonName": ""
+  },
+  "eb79fdfe23a07631a7551ef81bb9b1c6": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "차크라 웨펀",
+    "dungeonName": ""
+  },
+  "59f18ad6fc75be438eb3700eed7ff0e8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "십자가",
+    "dungeonName": ""
+  },
+  "e84f86169540b63285be15fd6daa0d40": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "e776eab981b7daac85f8faa28c2eaeb4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "5f0746d290ec872e9d4e66741130bafc": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "fab1a69100ac8fe8b4c5996ebdfcc798": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "너클",
+    "dungeonName": ""
+  },
+  "8b49cff9b6c5f00dd6ae1ef2291b43d2": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "e9daa5cecab3a0800ce9e43a59ba61a0": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "fd19e43acb9bf998f94df0db7729be06": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "11407b3eb8e4290c674061ddf02de3ef": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "ad4561247bf5b7e9a0c80dbaaa42c968": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "창",
+    "dungeonName": ""
+  },
+  "4f4fa43a8e6f8091ffdc04b7845b630e": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "0c6f3021af852992193db36566518f34": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "4a2c34a19752cc33ea05719a1a1af22b": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "cde24e89de1344351eb45c0246d1cd03": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "빗자루",
+    "dungeonName": ""
+  },
+  "9c2146d90b3e650fcebeca17933191a4": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "2e5e9ad15b651a3f458f528093d59092": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "리볼버",
+    "dungeonName": ""
+  },
+  "0a1fac8d26d5dd6723fbd7bc8d2eed60": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "84d9918a4fb186deff8fe8678e236b60": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "8082305cf4c0ef54a8925f4ea353d872": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  },
+  "29d95f975ff34bad83778e74e58b0566": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "18bef43afc834d281b4e189218cb97fd": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "0e0df26eef643d98594b4b8fdb74e8f4": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "b0f88a406788da99debe08ec96f0dbd8": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "3d70c6e7769d3f0279393bb3af1af587": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "565a1d18209279337579c5796a19aedf": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "1c518dcf5ae8f01e901f27421f1b0702": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "b585194bfa558e19d8d0f60be4a9f0b5": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "547fc71a1976699b9edc460a1a34c3d6": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "소검",
+    "dungeonName": ""
+  },
+  "478d96bae4041585b8810baa4dcf9024": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "소검",
+    "dungeonName": ""
+  },
+  "9f10c7c2d430df8422ea1b87f99580a9": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "d978ce202804d10c1970bab4b46accd8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "대검",
+    "dungeonName": ""
+  },
+  "940475e59fba15aa9e6540adcff78177": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "2e58b19e21f3c70e1283faafb31405fd": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "중검",
+    "dungeonName": ""
+  },
+  "88d17cd5fc3fb1e5c474d6780035a492": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "도",
+    "dungeonName": ""
+  },
+  "dd748235442ab9f2d5d0f9e88f11eb8a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "0dfd3b4f9f11fda6155313075378c5c2": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "토템",
+    "dungeonName": ""
+  },
+  "21de642e73e551ff2951f42fe8ecdfed": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "장궁",
+    "dungeonName": ""
+  },
+  "6bddee1482930a1654617768003cd00d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "ed12828f120919a9cc906da503d405f7": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "소태도",
+    "dungeonName": ""
+  },
+  "7f3f59e76a3994644e0155b0450ee310": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "7f9d0231bec0fbc0932fdf1bcd4937f1": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "e7a7e71d3e7c9b3ad70b7b672be35703": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "81bd41c4c3d7ad4d39dd49bdc9538c7e": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "봉",
+    "dungeonName": ""
+  },
+  "49d73ddb4974cc8ee23c0da2e253cf2a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "대검",
+    "dungeonName": ""
+  },
+  "5f1a28d1819ff790bb2a40f305fb3fdc": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "반지",
+    "dungeonName": ""
+  },
+  "20a25045544e45076c936393c0693d06": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "배틀액스",
+    "dungeonName": ""
+  },
+  "b83b37ccc8f1f13b442431b2c4473db0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "둔기",
+    "dungeonName": ""
+  },
+  "40a606b94d58c4dc3552e49d731cfa9f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "f50d313c302d3bad8ce47a24256db4dd": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머스켓",
+    "dungeonName": ""
+  },
+  "8177da9883506b6ef60bf0296b71dbde": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "a1ee6089f23d9612a63a14e27652263c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "도",
+    "dungeonName": ""
+  },
+  "f81cc4cda73187a4003be7745ac16c2a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "a78e6b91e0ac657996cd519f05eec668": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "선현궁",
+    "dungeonName": ""
+  },
+  "28fc8eb2f6cd1cde8fefe8aca6a9ceaa": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "29f5d0e0643c18eb213ec39a0f54863b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "a24185e48bea935d8755927131ee2086": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "2d3b41afe3e58a6bb49b0a9a3fddf1a8": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "소태도",
+    "dungeonName": ""
+  },
+  "34530ab9431075fbbba5964b91de10eb": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "25fa2c34d08fc9e3c6e0b22176185de2": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "배틀액스",
+    "dungeonName": ""
+  },
+  "1f7f967345b533ce9b4f7f38c04c0b08": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "cdb47e18592c7f6716413a71f8bf5a70": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "f227beed455a61916d2232d5fc1d6285": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "빗자루",
+    "dungeonName": ""
+  },
+  "7e215a552c13cfc93ca208b0ddd47075": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "5b4e7b99782b0db7c073e43c6fbab38d": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "건틀릿",
+    "dungeonName": ""
+  },
+  "03f1ababb5e6df10eb70cd3430e75f84": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "b6ec978efd0f64c4ed85ec3751c042d2": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "6e44ccf46ff077dc0ca1a93bbe36d5d5": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "크로스슈터",
+    "dungeonName": ""
+  },
+  "fc6ddf0aff039886c3abc1ee6dbb0bb8": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "도",
+    "dungeonName": ""
+  },
+  "01f76432ae531717912ac159df825b54": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머스켓",
+    "dungeonName": ""
+  },
+  "66176cbac65acfe9dcf49dea8622a45a": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "ab2e3267be4d5589118013d117276ba4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "a136de441fc131a39dd80b42c19af5da": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "중검",
+    "dungeonName": ""
+  },
+  "6b2549abc7e9492bcc98ab5786ac0b1f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "894e3ce2fb15298feda9cac871b74ea0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "빗자루",
+    "dungeonName": ""
+  },
+  "6a325513cc5227148e9c0b77b8816d9c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "마법석",
+    "dungeonName": ""
+  },
+  "143f1cfc80e6896e2ce48063c7370c05": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "99806a99b87a8aea621bfe177200f254": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "광창",
+    "dungeonName": ""
+  },
+  "52f6e55219392c1c4e654ce28c443a11": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "594e0befcbf416ce834ab1ca661bd28c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "핸드캐넌",
+    "dungeonName": ""
+  },
+  "9f0dde7a9c78384a9c5a80ff41f98e68": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "대검",
+    "dungeonName": ""
+  },
+  "cd4d0bef1ee8cf810ee7842f1abd7b38": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "머리어깨",
+    "dungeonName": ""
+  },
+  "1cdff16c1ee7de1697c4f4ced568360a": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "하의",
+    "dungeonName": ""
+  },
+  "d031df5ab3a48e094203184386020d19": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "에테리얼 보우",
+    "dungeonName": ""
+  },
+  "ecd263f77d6dc442bc57c89d585be70b": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "광검",
+    "dungeonName": ""
+  },
+  "7c0d9481be86c9e7038e2cd56226c787": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "창",
+    "dungeonName": ""
+  },
+  "6f1d35818b7a916deb172ab3602fc8f4": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "6cb8c6f4e78084084e459c42b92a2940": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "660443400103e59e4c2563649e037608": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "상의",
+    "dungeonName": ""
+  },
+  "609fc6c654ad4d9158229ad7e8819163": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "장창",
+    "dungeonName": ""
+  },
+  "dc3ca8e52b22bf04f2c33be7f2779bad": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "목걸이",
+    "dungeonName": ""
+  },
+  "94a65d47457bb81dda82b2cb742aded0": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "051a0eb63ef8356b6047a46c4a033118": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "벨트",
+    "dungeonName": ""
+  },
+  "ea202d77351094e11332f2aa8ece0d48": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "대검",
+    "dungeonName": ""
+  },
+  "9f04b522e2020c0f2b9423dd1cb1a7fc": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "신발",
+    "dungeonName": ""
+  },
+  "4f1bab87036ad995d4d6df561e3c97ca": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "d7c314d573629088a6b05c7521da810f": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "장도",
+    "dungeonName": ""
+  },
+  "f3a801e1f9d93ced175f3f19b9253a43": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "선현궁",
+    "dungeonName": ""
+  },
+  "8b84ff87d5622d23c662f8b1c3ba9174": {
+    "itemAvailableLevel": 105,
+    "itemTypeDetail": "보조장비",
+    "dungeonName": ""
+  },
+  "463cc16ca330c26a15caba314d2c1a5c": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "팔찌",
+    "dungeonName": ""
+  },
+  "765d0b7f42669f4c9e1a813d52863250": {
+    "itemAvailableLevel": 110,
+    "itemTypeDetail": "융합석",
+    "dungeonName": ""
+  },
+  "922410feddfa6637bc5d5bdb66d9c040": {
+    "itemAvailableLevel": 115,
+    "itemTypeDetail": "귀걸이",
+    "dungeonName": ""
+  }
+}
